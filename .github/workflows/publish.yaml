@@ -9,7 +9,7 @@ on:
         description: version (eg, 1.2.3)
 
 env:
-  IMAGEA_NAME: gha-image
+  IMAGE_NAME: gha-image
 
 jobs:
   publish:
